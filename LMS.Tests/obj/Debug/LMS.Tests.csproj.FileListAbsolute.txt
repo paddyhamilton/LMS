@@ -1,0 +1,9 @@
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\LMS.Tests.dll
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\LMS.Tests.pdb
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\nunit.framework.dll
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\nunit.framework.xml
+D:\PersonalGitHub\LMS\LMS.Tests\obj\Debug\LMS.Tests.csprojResolveAssemblyReference.cache
+D:\PersonalGitHub\LMS\LMS.Tests\obj\Debug\LMS.Tests.dll
+D:\PersonalGitHub\LMS\LMS.Tests\obj\Debug\LMS.Tests.pdb
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\LMS.Domain.dll
+D:\PersonalGitHub\LMS\LMS.Tests\bin\Debug\LMS.Domain.pdb

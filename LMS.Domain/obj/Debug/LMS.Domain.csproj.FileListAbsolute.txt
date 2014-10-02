@@ -1,0 +1,5 @@
+D:\PersonalGitHub\LMS\LMS.Domain\obj\Debug\LMS.Domain.csprojResolveAssemblyReference.cache
+D:\PersonalGitHub\LMS\LMS.Domain\bin\Debug\LMS.Domain.dll
+D:\PersonalGitHub\LMS\LMS.Domain\bin\Debug\LMS.Domain.pdb
+D:\PersonalGitHub\LMS\LMS.Domain\obj\Debug\LMS.Domain.dll
+D:\PersonalGitHub\LMS\LMS.Domain\obj\Debug\LMS.Domain.pdb
